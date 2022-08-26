@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python coding, ML and AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me ...
+- 📫 You can reach me by connecting here
 
 <!---
 PythonCoder007/PythonCoder007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
